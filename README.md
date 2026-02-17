@@ -3,7 +3,16 @@
 **Course:** CS4379  
 **Student:** Ikram Yahya  
 
-## Overview
+## Repository Overview
+
+This repository contains my submission for Assignment 1.  
+
+- **Part A:** Practice core Git/GitHub workflows including branching, commits, pull requests, and repository organization.  
+- **Part B:** A reproducible data analysis of the Netflix titles dataset using a Jupyter Notebook, including data cleaning, analysis, and visualization.
+
+---
+
+## Part B Overview
 
 This project analyzes the Netflix titles dataset to explore trends in the catalog over time. The main focus is on:
 
@@ -43,3 +52,17 @@ Notes
 Missing or null values were handled appropriately during the analysis.
 
 Both the .ipynb and .html files are provided for convenience
+
+---
+
+## Git Workflow (Part A Summary)
+
+- Repository initialized locally and pushed to GitHub.
+- Created a branch named `analysis-notebook`.
+- Added notebook in `notebooks/` directory.
+- Made multiple logical commits with descriptive messages.
+- Opened and merged a Pull Request into `main`.
+- Added a `.gitignore` file for Python/Jupyter projects.
+
+---
+
