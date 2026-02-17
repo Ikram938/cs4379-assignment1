@@ -8,7 +8,7 @@ In this notebook, we analyze the **Netflix titles dataset** to understand how th
 **How has the number of titles added to Netflix changed over time?**
 
 ## How to Run
-1. Make sure you have Python 3.x installed.
+1. Make sure you have Python 3.x  installed.
 2. Install the required packages (if needed):
    ```bash
    pip install pandas numpy matplotlib seaborn
